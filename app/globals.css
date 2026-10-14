@@ -1,0 +1,13 @@
+body{font-family:system-ui,sans-serif;max-width:900px;margin:0 auto;padding:16px;background:#f7f7f8;color:#1a1a1a}
+h1,h2{margin:16px 0 8px}
+form.row{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+input,select,button{padding:8px;border:1px solid #bbb;border-radius:6px;font-size:15px}
+button{background:#1a1a1a;color:#fff;cursor:pointer}
+ul{list-style:none;padding:0}
+li{background:#fff;border:1px solid #ddd;border-radius:8px;padding:10px;margin:6px 0}
+a{color:#0b5fff;text-decoration:none}
+table{width:100%;border-collapse:collapse;background:#fff;margin:8px 0}
+td,th{border-bottom:1px solid #eee;padding:6px;text-align:left}
+td.num input{width:130px;text-align:right}
+.tot{display:flex;gap:16px;flex-wrap:wrap;font-weight:600;margin:12px 0}
+.ok{color:#0a7d33}.ko{color:#c00}
